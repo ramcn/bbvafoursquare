@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BBVAFourSquare</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result">Results</string>
+	<string name="lati">lati</string>
+	<string name="shop_type">shop type       </string>
+	<string name="longi">longi</string>
+	<string name="zipcode">zipcode</string>
+	<string name="button_submit"></string>
+	<string name="processing">processing...</string>    
+	
+</resources>
